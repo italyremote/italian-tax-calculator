@@ -1,5 +1,5 @@
 # italian-tax-calculator
-A simple calculator to estimate the tax due based on the Italian tax brackets (scaglioni), deductions (detrazioni), and pension contributions (INPS)
+A simple calculator to estimate the tax due based on the Italian tax brackets (scaglioni), deductions (detrazioni), and pension contributions (INPS). This assumes that pension contributions are done separately and at the current rate of 27.7%
 
 Usage:
 
